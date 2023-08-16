@@ -1,0 +1,3 @@
+1. Jenkins file can be in any location in the github and it can have any naming covention. we just have to mention the jenkins file path 
+    in "script path" parameter on jenkins while creating a pipeline.
+2. 
